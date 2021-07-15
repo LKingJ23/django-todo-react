@@ -1,0 +1,1 @@
+# Simple TODO app in Django-React
